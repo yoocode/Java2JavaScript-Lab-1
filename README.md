@@ -127,9 +127,9 @@ Extend your answer to the last question produce a method that will print out a n
 1: tableSquares(6)  
 2: \*\*\*Output\*\*\*  
 3: A6x6tablesquare  
-4: | &nbsp;1 | &nbsp;2 |  &nbsp;3 | &nbsp;4 | &nbsp;5 | &nbsp;6 |  
-5: | &nbsp;2 | &nbsp;4 | &nbsp;6 | &nbsp;8 | 10 | 12 |  
-6: | &nbsp;3 | &nbsp;6 | &nbsp;9 | 12 | 15 | 18 |  
-7: | &nbsp;4 | &nbsp;8 | 12 | 16 | 20 | 24 |  
+4: | &nbsp;1 | &nbsp;&nbsp;2 |  &nbsp;3 | &nbsp;4 | &nbsp;5 | &nbsp;6 |  
+5: | &nbsp;2 | &nbsp;&nbsp;4 | &nbsp;6 | &nbsp;8 | 10 | 12 |  
+6: | &nbsp;3 | &nbsp;&nbsp;6 | &nbsp;9 | 12 | 15 | 18 |  
+7: | &nbsp;4 | &nbsp;&nbsp;8 | 12 | 16 | 20 | 24 |  
 8: | &nbsp;5 | 10 | 15 | 20 | 25 | 30 |  
 9: | &nbsp;6 | 12 | 18 | 24 | 30 | 36 |  
