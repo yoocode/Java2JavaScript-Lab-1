@@ -5,41 +5,18 @@ Use the provided html/css/js files and folders to implement the following method
 ## 2.1 1 to 10
 Write a method that prints the numbers 1 to 10
 ### 2.1.1 Example
-1: oneToTen()
-
-2: ***Output***
-
-3: 1
-
-4: 2
-
-5: 3
-
-6: 4
-
-7: 5
-
-8: 6
-
-9: 7
-
-10: 8
-
-11: 9
-
-=======
-2: ***Output***
-3: 1
-4: 2
-5: 3
-6: 4
-7: 5
-8: 6
-9: 7
-10: 8
-11: 9
->>>>>>> f4907e12eecdfbf77c3746c449614c0023291703
-12: 10
+1: oneToTen()  
+2: ***Output***  
+3: 1  
+4: 2  
+5: 3  
+6: 4  
+7: 5  
+8: 6  
+9: 7  
+10: 8  
+11: 9  
+12: 10  
 
 ## 2.2 Odd Numbers
 Write a method that prints the positive odd numbers less than 20
